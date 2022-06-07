@@ -1,4 +1,4 @@
-alert('Working')
+//alert('Working')
 
 
 document.querySelector('button').addEventListener('click', getCity)
